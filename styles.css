@@ -67,6 +67,7 @@ nav {
     overflow-x: hidden;
     padding: 5px 10px;
     text-align: center;
+    list-style: none;
 }
 
 nav > ul > li {
